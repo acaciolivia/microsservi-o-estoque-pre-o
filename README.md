@@ -10,4 +10,6 @@ Consumidor Java: Microserviço desenvolvido em Java com Spring Boot que consome 
 
 Consumidor Node.js: Um segundo microserviço, desenvolvido em Node.js, também responsável por consumir mensagens da mesma fila.
 
-## Diagrrama de arquitetura
+## Diagrama de arquitetura
+![Diagrama rabbitmq](C:\Users\livia\Downloads\diagramaRabbitmq)
+
